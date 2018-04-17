@@ -1,4 +1,4 @@
-####################################Script made by Rochak Agrawal#################################################
+####################################Script made by Abhishek Choudhury##################################################
 import ConfigParser
 config = ConfigParser.ConfigParser()
 config.read("weblogic.properties")
