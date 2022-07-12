@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('') {
       steps {
-        sh '''echo "sd;mspfjasdmas;cj
+        sh '''echo "sd;mspfjasdmas;cjdoing some changes
 '''
       }
     }
